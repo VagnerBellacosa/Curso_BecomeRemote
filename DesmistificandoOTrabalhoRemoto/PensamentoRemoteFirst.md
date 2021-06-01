@@ -1,4 +1,6 @@
-# Pensamento Remote First
+# Desmistificando o Trabalho Remoto
+
+## Pensamento Remote First
 
 Então, afinal, o que é ter um pensamento Remote First?
 

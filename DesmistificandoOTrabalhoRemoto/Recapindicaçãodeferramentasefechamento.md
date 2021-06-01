@@ -1,4 +1,6 @@
-# Recap, indicação de ferramentas e fechamento
+# Desmistificando o Trabalho Remoto
+
+## Recap, indicação de ferramentas e fechamento
  
 Estamos chegando ao final do nosso curso introdutório sobre trabalho remoto, parabéns por ter acompanhado até aqui. Vamos recapitular o que abordamos até agora:
 

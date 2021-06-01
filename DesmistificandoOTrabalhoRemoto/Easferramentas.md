@@ -1,4 +1,6 @@
-# E as ferramentas?
+# Desmistificando o Trabalho Remoto
+
+## E as ferramentas?
 
 E quais são as ferramentas a serem usadas? Essa é sempre uma das primeiras perguntas quando o assunto é trabalho remoto. Porém isso não é a primeira coisa que você deve pensar e nem é o mais importante.
 

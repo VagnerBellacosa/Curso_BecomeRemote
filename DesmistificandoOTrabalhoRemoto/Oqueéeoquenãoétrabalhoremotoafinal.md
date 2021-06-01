@@ -1,6 +1,8 @@
-# O que é e o que não é trabalho remoto afinal?
+# Desmistificando o Trabalho Remoto
 
-## Introdução
+## O que é e o que não é trabalho remoto afinal?
+
+### Introdução
 
 Trabalho Remoto é um tema que está ganhando força. O número de vezes que esse termo é pesquisado no Google triplicou nos últimos 10 anos e já existem empresas que trabalham exclusivamente nesse modelo, sem nem mesmo possuir um escritório físico.
 

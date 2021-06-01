@@ -1,4 +1,6 @@
-# Pré-requisitos para mudança de modelo
+# Desmistificando o Trabalho Remoto
+
+## Pré-requisitos para mudança de modelo
 
 Nesse vídeo, vou falar de alguns pré-requisitos que devem ser considerados na hora de mudar a sua forma de trabalho. São mudanças que precisam acontecer e vem mesmo antes de começar a falar de processos, técnicas e ferramentas. 
 

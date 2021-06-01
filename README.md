@@ -10,26 +10,20 @@ Tudo o que você precisa saber para ser um profissional de sucesso de forma remo
 
 Entenda o que faz parte do trabalho remoto e o que você e sua equipe precisam saber para que todos os processos e comunicações funcionem de forma eficaz. A especialista também vai esclarecer sobre o uso de ferramentas para organizar atividades e sobre o conceito "remote first".
 
- - [Apontamentos](DesmistificandoOTrabalhoRemoto\DesmistificandoOTrabalhoRemoto.md)
+ - [Apontamentos](DesmistificandoOTrabalhoRemoto/DesmistificandoOTrabalhoRemoto.md)
 
 ### Como se comunicar de forma eficiente e eficaz trabalhando remotamente
 
 A comunicação é primordial para o andamento de qualquer projeto, em especial para projetos desenvolvidos equipes remotas. Nesse curso você vai aprender sobre os tipos de comunicação envolvidos em trabalhar remotamente e como você deve agir em cada uma delas.
 
-- [Apontamentos](ComoSeComunicarDeFormaEficienteEEficazTrabalhandoRemotamente\ComoSeComunicarDeFormaEficienteEEficazTrabalhandoRemotamente.md)
+- [Apontamentos](ComoSeComunicarDeFormaEficienteEEficazTrabalhandoRemotamente/ComoSeComunicarDeFormaEficienteEEficazTrabalhandoRemotamente.md)
 
-
-### Como se comunicar de forma eficiente e eficaz trabalhando remotamente
-
-A comunicação é primordial para o andamento de qualquer projeto, em especial para projetos desenvolvidos equipes remotas. Nesse curso você vai aprender sobre os tipos de comunicação envolvidos em trabalhar remotamente e como você deve agir em cada uma delas.
-
-- [exemplo](https://exemplo.com/)
 
 ### Como gerenciar seus projetos trabalhando remotamente
 
 Começar um novo projeto exige que o profissional se informe sobre todo o cenário do produto como: modelo de negócio, qual o momento do produto e como atingir os objetivos. Nesse curso você vai aprender como ficar por dentro de todo o contexto do projeto e como organizar suas prioridades e tarefas junto a sua equipe de forma remota.
 
-- [exemplo](https://exemplo.com/)
+- [Apontamentos](ComoGerenciarSeusProjetosTrabalhandoRemotamente/ComoGerenciarSeusProjetosTrabalhandoRemotamente.md)
 
 ### Rotina e produtividade individual no trabalho remoto
 

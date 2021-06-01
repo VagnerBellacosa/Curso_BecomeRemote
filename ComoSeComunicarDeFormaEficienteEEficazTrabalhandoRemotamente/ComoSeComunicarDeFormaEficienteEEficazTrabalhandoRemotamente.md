@@ -14,9 +14,9 @@ A comunicação é primordial para o andamento de qualquer projeto, em especial 
 
 1. [Como funciona a comunicação em um ambiente remoto](ComoFuncionaAComunicaçãoEmUmAmbienteRemoto).
 
-2- [Comunicação Síncrona](ComunicaçãoSíncrona.md).
+2. [Comunicação Síncrona](ComunicaçãoSíncrona.md).
 
-3- [Comunicação Assíncrona](ComunicaçãoAssíncrona.md).
+3. [Comunicação Assíncrona](ComunicaçãoAssíncrona.md).
 
 4. [Como se integrar com o seu time remoto](ComoSeIntegrarComOSeuTimeRemoto.md).
 

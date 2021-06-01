@@ -11,14 +11,14 @@ Entenda o que faz parte do trabalho remoto e o que você e sua equipe precisam s
 
 ### Conteudo 
 
-1.  [O que é e o que não é trabalho remoto afinal?](O que é e o que não é trabalho remoto afinal.md).
+1.  [O que é e o que não é trabalho remoto afinal?](Oqueéeoquenãoétrabalhoremotoafinal.md).
 
-2.  [Pré-requisitos para mudança de modelo](Pré-requisitos para mudança de modelo.md).
+2.  [Pré-requisitos para mudança de modelo](Prérequisitosparamudançademodelo.md).
 
-3.  [Pensamento Remote First](Pensamento Remote First.md).
+3.  [Pensamento Remote First](PensamentoRemoteFirst.md).
 
-4.  [E as ferramentas?](E as ferramentas.md).
+4.  [E as ferramentas?](Easferramentas.md).
 
-5.  [Recap, indicação de ferramentas e fechamento](Recap, indicação de ferramentas e fechamento.md).
+5.  [Recap, indicação de ferramentas e fechamento](Recapindicaçãodeferramentasefechamento.md).
 
 

@@ -29,5 +29,5 @@ Começar um novo projeto exige que o profissional se informe sobre todo o cenár
 
 Nesse último curso do bootcamp a especialista vai falar sobre a importância de adaptar o seu espaço para o trabalho remoto, quais os principais desafios encontrados por quem começa essa nova jornada e a solução para os mesmos.
 
-- [exemplo](https://exemplo.com/)
+- [Apontamento](RotinaEProdutividadeIndividualNoTrabalhoRemoto/RotinaEProdutividadeIndividualNoTrabalhoRemoto.md)
 

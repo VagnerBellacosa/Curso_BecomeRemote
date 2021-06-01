@@ -21,5 +21,3 @@ Entenda o que faz parte do trabalho remoto e o que você e sua equipe precisam s
 4.  [E as ferramentas?](Easferramentas.md).
 
 5.  [Recap, indicação de ferramentas e fechamento](Recapindicaçãodeferramentasefechamento.md).
-
-

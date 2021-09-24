@@ -8,20 +8,22 @@
 
 **Como funciona a comunicação em um ambiente remoto**
 
-Como funciona a comunicação em um ambiente remotoComo funciona a comunicação em um ambiente remotoCLIQUE AQUI PARA CONCLUIR ESSA AULA
+Como funciona a comunicação em um ambiente remotoComo funciona a comunicação em um ambiente remoto 
 
 **Comunicação Síncrona**
 
-Comunicação SíncronaComunicação SíncronaCLIQUE AQUI PARA CONCLUIR ESSA AULA
+Comunicação SíncronaComunicação Síncrona 
 
 **Comunicação Assíncrona**
 
-Comunicação assíncronaComunicação AssíncronaCLIQUE AQUI PARA CONCLUIR ESSA AULA
+Comunicação assíncronaComunicação Assíncrona 
 
 **Como se integrar com o seu time remoto**
 
-Como se integrar com o seu time remotoComo se integrar com o seu time remotoCLIQUE AQUI PARA CONCLUIR ESSA AULA
+Como se integrar com o seu time remotoComo se integrar com o seu time remoto 
 
 **Recap, indicação de ferramentas e fechamento 2**
 
-Recap, indicação de ferramentas e fechamento 2Recap, indicação de ferramentas e fechamentoCertifique seu conhecimento
+Recap, indicação de ferramentas e fechamento 2Recap, indicação de ferramentas e fechamento
+
+Certifique seu conhecimento
